@@ -8,3 +8,4 @@ int main()
     cout<<"Please fallow tables for your Answer:\n\tEnter '1' for sin(x)\n\tEnter '2' for cos(x)\n\tEnter '3' for tan(x)\n\tEnter '4' for sin-1(x)\n\tEnter '5' for cos-1(x)\n\tEnter '6' for ";
     cin>>InputProblem;
        
+}
