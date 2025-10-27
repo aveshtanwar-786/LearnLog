@@ -1,0 +1,14 @@
+1 OBYSSEUS - In this rule we want negalate distraction (by any way)
+2 PARETO PRINCIPLE - In this principle, i learned about that 20% input gives 80% output (approx in all conditions) so we need to study from PREVIOUS YEAR QUESTION PAPER, SMART NOTES AND DON'T WASTE TIME ON UNNECESSARY TOPICS.
+3 SPACE REPETION (POMODORO)
+4 PARKINSON'S LAW - MAKE GOLES, TO DO LIST AND DEADLINES FOR PROJECT.
+5 ACTIVE RECALL - when we are making notes then we have to understand first then make notes 
+6 ACTIVE ENGAMENT - Make digramatice notes and understandable.
+data strocture and algorathims 
+
+Question : What is object oriented programming language?
+Answer : It's just a simple notation or a way of writting a program where we use classes and objects.
+
+Question : A little more about c++?
+Answer : C++ is a middle - level language, as it encapaluate both high and low level language features.
+    Also, C++ supports both procedural and object - oriented

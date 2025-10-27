@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Search</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    .search-box {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .search-input {
+      flex: 1;
+      padding: 10px;
+      font-size: 16px;
+      border: 2px solid #4285F4;
+      border-radius: 4px;
+      outline: none;
+      color: #333;
+    }
+    .search-input:focus {
+      border-color: #3367D6;
+    }
+    .search-btn {
+      background-color: #4285F4;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      margin-left: 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      outline: none;
+      transition: background-color 0.2s ease-in-out;
+    }
+    .search-btn:hover {
+      background-color: #3367D6;
+    }
+    .lucky-btn {
+      background-color: #34A853;
+    }
+    .lucky-btn:hover {
+      background-color: #2B8E33;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <form id="google-search-form" onsubmit="return performGoogleSearch(event)">
+      <div class="search-box">
+        <input type="text" id="search-input" class="search-input" placeholder="Google search">
+        <button type="submit" class="search-btn">Google Search</button>
+      </div>
+    </form>
+    <div class="search-box">
+      <input type="text" id="lucky-input" class="search-input" placeholder="I'm Feeling Lucky">
+      <button onclick="performLuckySearch()" class="search-btn lucky-btn">I'm Feeling Lucky</button>
+    </div>
+  </div>
+
+  <script>
+    function performGoogleSearch(event) {
+      event.preventDefault();
+      const query = document.getElementById('search-input').value;
+      if (query.trim() !== '') {
+        window.location.href = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+      }
+    }
+
+    function performLuckySearch() {
+      const query = document.getElementById('lucky-input').value;
+      if (query.trim() !== '') {
+        window.location.href = `https://www.google.com/search?q=${encodeURIComponent(query)}&btnI=I%27m+Feeling+Lucky`;
+      }
+    }
+  </script>
+</body>
+</html>

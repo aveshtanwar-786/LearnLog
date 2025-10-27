@@ -1,0 +1,135 @@
+
+<!-- saved from url=(0041)http://127.0.0.1:5500/Web_Calculator.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script>
+        //function that dispaly value
+        function dis(val) 
+        {
+            document.getElementById("result").value+=val
+        }
+
+        //function that evaluates the digit and return result
+        function solve() 
+        {
+            let x = document.getElementById("result").value
+            let y = eval(x)
+            document.getElementById("result").value = y
+        }
+
+        //function that clear the display 
+        function clr() 
+        {
+            document.getElementById("result").value = ""
+        }
+    </script>
+    <!-- for styling -->
+    <style>
+        .container{
+    text-align: center;
+    margin-top: 23px
+}
+table{
+    margin: 10px;
+}
+
+input{
+    border: 5px solid #079bf1;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+input[type="button"]
+        {
+            background-color: rgba(30, 255, 0, 0.582);
+            color: rgb(12, 14, 8);
+            border: solid rgb(2, 182, 32) 2px;
+            width: 100%;
+            border-radius: 5px;
+        }
+        
+.calculator{
+    display: inline-block;
+    background-color: #ffeb00de;
+    padding: 24px;
+    border-radius: 35px;
+}
+    </style>
+</head>
+<!-- create table -->
+<body>
+    <center>
+    <div class="title"><h1>- Calculator -</h1></div><br>
+    <table border="1">
+        <tbody><tr>
+            <td colspan="3"><input type="text" id="result"></td>
+            <!-- clr() function will call clr to clear all value -->
+            <td><input type="button" value="C" onclick="clr()"></td>
+        </tr>
+        <tr>
+            <!-- create button and assign value to each button -->
+            <!-- dis("1") will call function dis to display value -->
+            <td><input type="button" value="1" onclick="dis(&#39;1&#39;)"></td>
+            <td><input type="button" value="2" onclick="dis(&#39;2&#39;)"></td>
+            <td><input type="button" value="3" onclick="dis(&#39;3&#39;)"></td>
+            <td><input type="button" value="/" onclick="dis(&#39;/&#39;)"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="4" onclick="dis(&#39;4&#39;)"></td>
+            <td><input type="button" value="5" onclick="dis(&#39;5&#39;)"></td>
+            <td><input type="button" value="6" onclick="dis(&#39;6&#39;)"></td>
+            <td><input type="button" value="-" onclick="dis(&#39;-&#39;)"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="7" onclick="dis(&#39;7&#39;)"></td>
+            <td><input type="button" value="8" onclick="dis(&#39;8&#39;)"></td>
+            <td><input type="button" value="9" onclick="dis(&#39;9&#39;)"></td>
+            <td><input type="button" value="+" onclick="dis(&#39;+&#39;)"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="." onclick="dis(&#39;.&#39;)"></td>
+            <td><input type="button" value="0" onclick="dis(&#39;0&#39;)"></td>
+            <!-- solve function call function solve evaluate value -->
+            <td><input type="button" value="=" onclick="solve()"></td>
+            <td><input type="button" value="*" onclick="dis(&#39;/&#39;)"></td>
+        </tr>
+    </tbody></table>
+</center>
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body></html>
