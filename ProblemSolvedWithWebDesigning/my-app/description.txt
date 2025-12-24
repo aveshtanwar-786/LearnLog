@@ -1,0 +1,33 @@
+1. Database Layer
+PostgreSQL (Neon Cloud)
+Type: Relational database (SQL-based).
+Why Neon: Serverless, free tier, runs in the cloud — no need to install locally in Codespaces.
+Role: Stores persistent data (tables, rows, queries).
+Access: Via a connection string with SSL (postgresql://...).
+
+2. Backend Layer
+Node.js + Express
+Node.js: JavaScript runtime to run backend code in Codespaces.
+Express: Lightweight web framework for building API routes.
+pg (node-postgres): PostgreSQL client library for connecting Node.js to Neon DB.
+dotenv: Loads .env config (like DB credentials) into Node.js without hardcoding.
+cors: Enables the frontend to make API calls to the backend (Cross-Origin Resource Sharing).
+
+3. Frontend Layer
+Vanilla HTML + JavaScript
+Role: UI for interacting with backend (form submission, displaying data).
+Hosted by Express: Static files in /public are served directly from the backend.
+Interaction: Uses fetch() API to call backend endpoints (/api/...) for data.
+
+4. Development Environment
+GitHub Codespaces
+Role: Cloud-based VS Code dev environment running our Node.js app.
+Benefit: No local setup needed; runs in the browser with ports forwarded for preview.
+
+5. Data Flow
+scss
+Frontend (HTML/JS)
+      ↓  fetch API
+Backend (Node.js + Express)
+      ↓  pg client
+Database (PostgreSQL @ Neon Cloud) 
