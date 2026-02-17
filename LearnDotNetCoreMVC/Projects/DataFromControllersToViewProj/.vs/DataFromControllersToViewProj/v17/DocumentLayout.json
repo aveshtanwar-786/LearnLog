@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\datafromcontrollerstoviewproj\\datafromcontrollerstoviewproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|solutionrelative:datafromcontrollerstoviewproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\datafromcontrollerstoviewproj\\datafromcontrollerstoviewproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|solutionrelative:datafromcontrollerstoviewproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\datafromcontrollerstoviewproj\\datafromcontrollerstoviewproj\\datafromcontrollerstoviewproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|solutionrelative:datafromcontrollerstoviewproj\\datafromcontrollerstoviewproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\datafromcontrollerstoviewproj\\datafromcontrollerstoviewproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E472916-F1BB-4F12-A021-DED96D7209FC}|DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj|solutionrelative:datafromcontrollerstoviewproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataFromControllersToViewProj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DataFromControllersToViewProj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T08:50:38.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DataFromControllersToViewProj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DataFromControllersToViewProj\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:49:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataFromControllersToViewProj",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj",
+              "RelativeDocumentMoniker": "DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj",
+              "RelativeToolTip": "DataFromControllersToViewProj\\DataFromControllersToViewProj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T08:49:20.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\Program.cs",
+              "RelativeDocumentMoniker": "DataFromControllersToViewProj\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DataFromControllersToViewProj\\DataFromControllersToViewProj\\Program.cs",
+              "RelativeToolTip": "DataFromControllersToViewProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:48:17.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

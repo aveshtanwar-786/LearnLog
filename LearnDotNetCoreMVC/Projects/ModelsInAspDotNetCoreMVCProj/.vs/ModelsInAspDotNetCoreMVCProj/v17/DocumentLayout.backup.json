@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\models\\relationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\models\\relationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvcproj\\modelsinaspdotnetcoremvcproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A8B4EA-815D-4A14-9182-2BB72F764EA7}|ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj.csproj|solutionrelative:modelsinaspdotnetcoremvcproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:50:55.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Repository\\IStudent.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Repository\\IStudent.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Repository\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:46:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelationModel.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Models\\RelationModel.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Models\\RelationModel.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Models\\RelationModel.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Models\\RelationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:20:16.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:01:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:59:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:59:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:20:21.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:19:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Program.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVCProj\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVCProj\\ModelsInAspDotNetCoreMVCProj\\Program.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVCProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:18:46.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

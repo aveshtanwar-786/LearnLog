@@ -1,0 +1,148 @@
+﻿@model FormSelfMadeInMVCProj.Models.StudentModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* <div class="container">
+<div class="row">
+    <div class="col-sm-4">
+        <form class="d-grid" method="post">
+            <label>Name: </label>
+            <input asp-for="FirstName" class="form-control"/>
+            <input asp-for="LastName" class="form-control"/>
+
+        </form>
+    </div>
+</div>
+</div> *@
+<div class="container-fluid pd-30">
+
+    <!-- NAME -->
+    <div class="row align-items-start mg-b-25">
+        <div class="col-md-3">
+            <label class="form-label mg-t-10" asp-for="FirstName">Name</label>
+        </div>
+        <div class="col-md-9">
+            <div class="row">
+                <div class="col-md-6 mg-b-10">
+                    <input asp-for="FirstName" class="form-control" placeholder="First Name">
+                </div>
+                <div class="col-md-6 mg-b-10">
+                    <input asp-for="LastName" class="form-control" placeholder="Last Name">
+                </div>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <!-- EMAIL -->
+    <div class="row align-items-start mg-b-25">
+        <div class="col-md-3">
+            <label class="form-label mg-t-10" asp-for="Email">Email</label>
+        </div>
+        <div class="col-md-9">
+            <input asp-for="Email" class="form-control" placeholder="example@example.com">
+        </div>
+    </div>
+    <br />
+    <!-- ADDRESS -->
+    <div class="row align-items-start mg-b-25">
+        <div class="col-md-3">
+            <label class="form-label mg-t-10" asp-for="StreetAddress">Address</label>
+        </div>
+        <div class="col-md-9">
+
+            <div class="mg-b-10">
+                <input asp-for="StreetAddress" class="form-control" placeholder="Street Address">
+            </div>
+            <br />
+            <div class="mg-b-10">
+                <input asp-for="StreetAddressLine2" class="form-control" placeholder="Street Address Line 2">
+            </div>
+            <br />
+            <div class="row mg-b-10">
+                <div class="col-md-6">
+                    <input asp-for="City" class="form-control" placeholder="City">
+                </div>
+                <div class="col-md-6">
+                    <input asp-for="State" class="form-control" placeholder="State / Province">
+                </div>
+            </div>
+            <br />
+            <input asp-for="PinCode" class="form-control" placeholder="Postal / Zip Code">
+
+        </div>
+    </div>
+    <br />
+    <!-- PHONE -->
+    <div class="row align-items-start mg-b-25">
+        <div class="col-md-3">
+            <label asp-for="PhoneNumber" class="form-label mg-t-10">Phone Number</label>
+        </div>
+        <div class="col-md-9">
+            <input asp-for="PhoneNumber" class="form-control" placeholder="(000) 000-0000">
+        </div>
+    </div>
+    <br />
+    <!-- DATE -->
+    <div class="row align-items-start">
+        <div class="col-md-3">
+            <label asp-for="Date" class="form-label mg-t-10">Date</label>
+        </div>
+        <div class="col-md-9">
+            <input asp-for="Date" type="date" class="form-control" placeholder="MM-DD-YYYY">
+        </div>
+    </div>
+    <br />
+    <!-- Roll No -->
+    <div class="row align-items-center mg-b-25">
+        <div class="col-md-3">
+            <label asp-for="RollNo" class="form-label">Roll No</label>
+        </div>
+        <div class="col-md-9">
+            <input asp-for="RollNo" class="form-control">
+        </div>
+    </div>
+    <br />
+    <!-- Subject -->
+    <div class="row align-items-start mg-b-25">
+        <div class="col-md-3">
+            <label asp-for="Subject" class="form-label mg-t-10">Subject</label>
+        </div>
+        <div class="col-md-9">
+            <textarea asp-for="Subject" class="form-control" rows="5"></textarea>
+        </div>
+    </div>
+    <br />
+    <!-- Course -->
+    <div class="row align-items-center mg-b-30">
+        <div class="col-md-3">
+            <label asp-for="course" class="form-label">Course</label>
+        </div>
+        <div class="col-md-9">
+            <select asp-for="course" class="form-control" asp-items="Html.GetEnumSelectList<Course>()">
+                <option selected>Please Select</option>
+                @* <option>BSc IT</option>
+                <option>BCA</option>
+                <option>BCom</option> *@
+            </select>
+        </div>
+    </div>
+    <br />
+    <!-- Divider -->
+    <div class="bd-t bd-gray-300 mg-b-25"></div>
+    <br />
+    <!-- Submit -->
+    <div class="row">
+        <div class="col text-center">
+            <button class="btn btn-outline-primary btn-block">
+                Submit
+            </button>
+        </div>
+    </div>
+
+</div>

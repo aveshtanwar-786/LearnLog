@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TagHelpersFormInMVC/1.0.0": {
+        "runtime": {
+          "TagHelpersFormInMVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TagHelpersFormInMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvc\\modelsinaspdotnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|solutionrelative:modelsinaspdotnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvc\\modelsinaspdotnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|solutionrelative:modelsinaspdotnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvc\\modelsinaspdotnetcoremvc\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|solutionrelative:modelsinaspdotnetcoremvc\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\modelsinaspdotnetcoremvc\\modelsinaspdotnetcoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D85EB7-4E27-4870-B9BD-2B7BBA0210E0}|ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC.csproj|solutionrelative:modelsinaspdotnetcoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:37:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVC\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:37:00.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVC\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVC\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:33:16.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ModelsInAspDotNetCoreMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ModelsInAspDotNetCoreMVC\\ModelsInAspDotNetCoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ModelsInAspDotNetCoreMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:31:44.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+﻿@model List<BloggingWebApp.Models.Domain.BlogPost>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="bg-secondary bg-opacity-10 py-2">
+<div class="container col-xxl-8 px-4 py-5">
+    <div class="row align-items-center g-5 py-5">
+        <div class="col-12 col-lg-6">
+            <div class="display-5 fw-bold lh-1 mb-3">
+                <h1 class="display-1 fw-bold text-primary mb-3 mb-lg-4">
+                    Zone<span class="text-dark">Blue</span>
+                    <hr class="border border-primary border-3 opacity-100">
+                    
+                </h1>
+                <p class="lead fs-2 fw-medium text-primary mb-4 mb-lg-5">
+                    The Blogs Management System
+                </p>
+
+            </div>
+            <p><b>A modern platform designed to create, manage, and publish blogs with speed, clarity, and complete control.</b></p>
+        </div>
+
+        <div class="col-12 col-lg-6">
+            <img src="https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg" alt="ZoneBlue - The Bloging Management System"
+            class="d-block mx-lg-auto img-fluid" width="300"/>
+        </div>
+
+    </div>
+ </div>
+</div>
+<div class="container py-5">
+    <div class="row justify-content-right">
+        <div class="col-lg-8">
+
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var blogPostDtls in Model)
+                {
+                    <article class="card mb-5 border-0 shadow-sm">
+                        <img src="@blogPostDtls.FeaturedImageUrl"
+                             alt="@blogPostDtls.Heading"
+                             class="card-img-top img-fluid" />
+
+                        <div class="card-body p-4">
+                            <h2 class="fw-bold mb-2">
+                                @blogPostDtls.Heading
+                            </h2>
+                            <div class="text-muted small mb-3">
+                                By <span class="fw-medium">@blogPostDtls.Author</span>
+                                · @blogPostDtls.PublishedDate.ToString("dd MMM yyyy")
+                            </div>
+                            <div class="mb-3">
+                                @foreach (var tag in @blogPostDtls.Tags)
+                                {
+                                    <span class="badge bg-secondary me-1">@tag.Name</span>
+                                }
+                            </div>
+                            <p class="text-secondary mb-4">
+                                @blogPostDtls.ShortDesc
+                            </p>
+                            <a asp-area=""
+                            asp-controller="Blogs"
+                            asp-action="Index"
+                               asp-route-UrlHandle="@blogPostDtls.UrlHandle"
+                               class="btn btn-sm btn-outline-dark">
+                                Read more →
+                            </a>
+
+                        </div>
+                    </article>
+                }
+            }
+
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+    
+<h1>Index Pages</h1>
+<p>This is Index Page.</p>
+<h3>
+    Hey My name is @ViewData["data1"]. <br /> My Age is @ViewData["data3"] .<br /><br />I have Three Sister Names are as follows: <br /><t />
+    
+@{  
+        foreach (var item in (String[])ViewData["data4"])
+        {
+            @item <br/>
+        }
+}
+
+</h3>
+
+<h2>My hobbies are as follows: <br/>
+    @{
+        foreach (var item1 in (List<string>)ViewData["data5"])
+        {
+            @item1 <br/>
+        }
+    }
+</h2>
+<p>Taday Details are as mentioned @ViewData["data2"]</p>
+@{
+    // if(@TempData["test1"] != null)
+    // {   
+        <h1>@TempData["Demo1"]</h1>
+    // }
+    // else
+    // {
+    //     <h1>No Data Found.</h1>
+    // }
+}

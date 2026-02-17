@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\taghelpersdemo\\taghelpersdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\taghelpersdemo\\taghelpersdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\taghelpersdemo\\taghelpersdemo\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\taghelpersdemo\\taghelpersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\taghelpersdemo\\taghelpersdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\taghelpersdemo\\taghelpersdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\taghelpersdemo\\taghelpersdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CD97F5F-19D7-4C99-9660-803731AC666E}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Program.cs",
+              "RelativeToolTip": "TagHelpersDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T11:29:48.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T11:23:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T11:21:47.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T11:20:10.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelpersDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T11:14:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T09:03:28.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\TagHelpersDemo\\TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T09:03:14.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

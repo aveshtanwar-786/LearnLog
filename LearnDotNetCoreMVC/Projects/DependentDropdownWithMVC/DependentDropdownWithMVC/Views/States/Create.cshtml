@@ -1,0 +1,97 @@
+﻿@model DependentDropdownWithMVC.Models.State
+
+@{
+    ViewData["Title"] = "Create";
+}
+@* 
+<h1>Create</h1>
+
+<h4>State</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="StateCode" class="control-label"></label>
+                <input asp-for="StateCode" class="form-control" />
+                <span asp-validation-for="StateCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StateName" class="control-label"></label>
+                <input asp-for="StateName" class="form-control" />
+                <span asp-validation-for="StateName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</br>
+<div >
+    <a asp-action="Index" class="btn btn-light">
+        ← Back
+    </a>
+
+</div> *@
+
+<div class="content-body">
+    <div class="container pd-x-0">
+        <div class="d-sm-flex align-items-center justify-content-between mg-b-20">
+            <div>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb breadcrumb-style1 mg-b-10">
+                        <li class="breadcrumb-item"><a asp-action="Index">States</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Create</li>
+                    </ol>
+                </nav>
+                <h4 class="mg-b-0 tx-spacing--1">Create New State</h4>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-xl-5">
+                <div class="card">
+                    <div class="card-body pd-30 pd-lg-40">
+                        <h5 class="tx-18 tx-sm-20 mg-b-20">State Details</h5>
+                        @* <p class="tx-13 tx-color-03 mg-b-30">Please fill in the information below to create a new state record.</p> *@
+
+                        <form asp-action="Create">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            <div class="form-group">
+                                <label asp-for="StateCode" class="d-block tx-11 tx-uppercase tx-medium tx-spacing-1">State Code</label>
+                                <input asp-for="StateCode" class="form-control" placeholder="Enter code (e.g., Rajasthan)" />
+                                <span asp-validation-for="StateCode" class="tx-12 text-danger"></span>
+                            </div>
+                            </br>
+                            <div class="form-group">
+                                <label asp-for="StateName" class="d-block tx-11 tx-uppercase tx-medium tx-spacing-1">State Name</label>
+                                <input asp-for="StateName" class="form-control" placeholder="Enter full name" />
+                                <span asp-validation-for="StateName" class="tx-12 text-danger"></span>
+                            </div>
+                            </br>
+                            <div class="form-group mg-b-30">
+                                <button type="submit" class="btn btn-primary btn-block btn-uppercase tx-spacing-2">Create State</button> | 
+                                <a asp-action="Index" class="tx-13 link-03 btn btn-light">
+                                    Back to State List
+                                </a>
+                            </div>
+                        </form>
+                    </div>
+                    @* <div class="card-footer bg-transparent pd-y-15 pd-x-20">
+                        <a asp-action="Index" class="tx-13 link-03 btn btn-light">
+                            Back to State List
+                        </a>
+                    </div> *@
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

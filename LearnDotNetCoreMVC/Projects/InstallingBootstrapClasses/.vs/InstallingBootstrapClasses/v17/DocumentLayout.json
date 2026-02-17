@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\installingbootstrapclasses\\installingbootstrapclasses\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F58319-9B02-45B3-9F32-0E96645F99FB}|InstallingBootstrapClasses\\InstallingBootstrapClasses.csproj|solutionrelative:installingbootstrapclasses\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Models\\Student.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Models\\Student.cs",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:08:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:01:44.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:01:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:18:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:02:07.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:01:31.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Program.cs",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Program.cs",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:59:13.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:29:10.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "InstallingBootstrapClasses\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\InstallingBootstrapClasses\\InstallingBootstrapClasses\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "InstallingBootstrapClasses\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:33:09.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

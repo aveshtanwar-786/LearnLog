@@ -1,0 +1,69 @@
+﻿@model List<BloggingWebApp.Models.Domain.BlogPost>
+
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+            <h1>All Blog Posts (Admin Only)</h1>
+
+            <div class="justify-content-end">
+                <a asp-controller="Home"
+                   asp-action="Index"
+                   class="btn btn-outline-primary">
+                    Go Home
+                </a>
+                <a asp-controller="AdminBlogPost"
+                   asp-action="Add"
+                   class="btn btn-dark align-items-center ">
+                    Create New
+                </a>
+            </div>
+        </div>
+    </div>
+</div>  
+<div class="container py-5">
+    <table class="table table-success table-striped-columns">
+
+        @if (Model != null && Model.Any())
+        {
+            <thead>
+                <tr>
+                    <th scope="col">Identity</th>
+                    <th scope="col">Heading</th>
+                    <th scope="col">Tags</th>
+                    <th scope="col">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var blogPost in Model)
+                {
+                    <tr>
+                        <td>@blogPost.Id</td>
+                        <td>@blogPost.Heading</td>
+                       
+                        <td>
+                            <div class="d-flex flex-wrap gap-1">
+                                @foreach (var tag in blogPost.Tags)
+                                {
+                                    <span class="badge bg-dark">@tag.Name</span>
+                                }
+                            </div>
+                        </td>
+
+                        <td>
+                            <a asp-area="" asp-controller="AdminBlogPost" asp-action="Edit"
+                               asp-route-id="@blogPost.Id"
+                               class="btn btn-outline-dark">Edit</a>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        }
+        else
+        {
+            <p>No tags Were Found!</p>
+        }
+
+    </table>
+</div>

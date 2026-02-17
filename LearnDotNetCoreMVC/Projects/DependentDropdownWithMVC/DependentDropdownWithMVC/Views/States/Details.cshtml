@@ -1,0 +1,83 @@
+﻿@model DependentDropdownWithMVC.Models.State
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+@* <h1>Details</h1>
+
+<div>
+    <h4>State</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StateCode)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StateCode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StateName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StateName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CreatedOn)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" class="btn btn-primary" asp-route-id="@Model?.StateId">Edit</a>
+    
+    |
+    <a asp-action="Index" class="btn btn-light">Back to List</a>
+</div> *@
+
+<div class="container pd-x-0 mg-t-20">
+    <div class="d-sm-flex align-items-center justify-content-between mg-b-20">
+        <div>
+            <h4 class="mg-b-0 tx-spacing--1">State Details</h4>
+            @* <p class="tx-color-03 mg-b-0">View full information for this record.</p> *@
+        </div>
+        <div class="mg-t-20 mg-sm-t-0">
+            <a asp-action="Index" class="btn btn-white"><i data-feather="arrow-left" class="mg-r-5"></i> Back</a>
+            <a asp-action="Edit" asp-route-id="@Model?.StateId" class="btn btn-primary mg-l-5">Edit Record</a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 col-lg-6">
+            <div class="card">
+                <div class="card-body pd-30">
+                    <h6 class="tx-uppercase tx-semibold tx-color-01 mg-b-20">State Information</h6>
+
+                    <dl class="row mb-0">
+                        <dt class="col-sm-4 tx-medium tx-color-03">State Code</dt>
+                        <dd class="col-sm-8 tx-color-01">@Html.DisplayFor(model => model.StateCode)</dd>
+
+                        <dt class="col-sm-4 tx-medium tx-color-03">State Name</dt>
+                        <dd class="col-sm-8 tx-color-01">@Html.DisplayFor(model => model.StateName)</dd>
+
+                        <dt class="col-sm-4 tx-medium tx-color-03">Status</dt>
+                        <dd class="col-sm-8">
+                            <span class="badge badge-light">@Html.DisplayFor(model => model.Status)</span>
+                        </dd>
+
+                        <dt class="col-sm-4 tx-medium tx-color-03">Created On</dt>
+                        <dd class="col-sm-8 tx-color-01">@Html.DisplayFor(model => model.CreatedOn)</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

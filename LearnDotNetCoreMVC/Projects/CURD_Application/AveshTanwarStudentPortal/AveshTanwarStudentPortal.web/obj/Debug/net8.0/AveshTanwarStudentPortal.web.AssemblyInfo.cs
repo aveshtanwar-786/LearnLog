@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AveshTanwarStudentPortal.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afc1420852a35f5dfdc51456c0129b032ed6a6ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("AveshTanwarStudentPortal.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AveshTanwarStudentPortal.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

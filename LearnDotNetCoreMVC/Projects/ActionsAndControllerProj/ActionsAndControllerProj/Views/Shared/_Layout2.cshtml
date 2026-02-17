@@ -1,0 +1,116 @@
+﻿@* <!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header>
+        <h1>This is Header Portion.</h1>
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>This is Footer Portion.</footer>
+</body>
+</html> *@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title - YourAppName</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+        .navbar-brand span:last-child {
+            letter-spacing: 0.5px;
+        }
+
+        .nav-link {
+            transition: all 0.2s ease-in-out;
+        }
+
+            .nav-link:hover {
+                color: red !important;
+            }
+
+            .nav-link.active {
+                border-bottom: 2px solid orange;        
+            }
+    </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+    <!-- HEADER -->
+    <header class="sticky-top">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+            <div class="container-fluid px-4">
+
+                <a class="navbar-brand fw-bold d-flex align-items-center gap-2" asp-page="/Index">
+                    <span class="text-primary fs-4">⚡</span>
+                    <span>Muhammad Avesh Tanwar</span>
+                </a>
+
+                <button class="navbar-toggler" type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#mainNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="mainNavbar">
+                    <ul class="navbar-nav mx-auto gap-lg-3 text-center">
+
+                        <li class="nav-item">
+                            <a class="nav-link @(Context.Request.Path == "/" ? "active fw-semibold" : "")"
+                               asp-page="/Index">
+                                Home
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link @(Context.Request.Path == "/Privacy" ? "active fw-semibold" : "")"
+                               asp-page="/Privacy">
+                                Privacy
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-page="/About">
+                                About
+                            </a>
+                        </li>
+
+                    </ul>
+
+                    <div class="d-flex align-items-center gap-2">
+                        <a class="btn btn-outline-light btn-sm px-3" asp-page="/Login">
+                            Login
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="flex-fill container py-4">
+        @RenderBody()
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-dark text-light text-center py-3 mt-auto sticky-bottom">
+        <small>© @DateTime.Now.Year YourAppName. All rights reserved.</small>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

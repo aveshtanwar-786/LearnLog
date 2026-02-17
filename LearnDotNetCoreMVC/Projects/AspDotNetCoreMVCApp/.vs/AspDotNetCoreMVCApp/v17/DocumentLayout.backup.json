@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\aspdotnetcoremvcapp\\aspdotnetcoremvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|solutionrelative:aspdotnetcoremvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\aspdotnetcoremvcapp\\aspdotnetcoremvcapp\\controllers\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|solutionrelative:aspdotnetcoremvcapp\\controllers\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\aspdotnetcoremvcapp\\aspdotnetcoremvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|solutionrelative:aspdotnetcoremvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\aspdotnetcoremvcapp\\aspdotnetcoremvcapp\\views\\home\\aboutshow1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|solutionrelative:aspdotnetcoremvcapp\\views\\home\\aboutshow1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\aspdotnetcoremvcapp\\aspdotnetcoremvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|solutionrelative:aspdotnetcoremvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\aspdotnetcoremvcapp\\aspdotnetcoremvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0986C5EF-5B61-49E0-90D1-9FE8B1E6DDD2}|AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp.csproj|solutionrelative:aspdotnetcoremvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutShow1.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Views\\Home\\AboutShow1.cshtml",
+              "RelativeDocumentMoniker": "AspDotNetCoreMVCApp\\Views\\Home\\AboutShow1.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Views\\Home\\AboutShow1.cshtml",
+              "RelativeToolTip": "AspDotNetCoreMVCApp\\Views\\Home\\AboutShow1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T13:31:08.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AspDotNetCoreMVCApp\\appsettings.json",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\appsettings.json",
+              "RelativeToolTip": "AspDotNetCoreMVCApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-31T13:28:32.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspDotNetCoreMVCApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspDotNetCoreMVCApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T13:24:32.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreMVCApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspDotNetCoreMVCApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:21:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutTest.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Controllers\\AboutTest.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreMVCApp\\Controllers\\AboutTest.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Controllers\\AboutTest.cs*",
+              "RelativeToolTip": "AspDotNetCoreMVCApp\\Controllers\\AboutTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:21:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreMVCApp\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\AspDotNetCoreMVCApp\\AspDotNetCoreMVCApp\\Program.cs*",
+              "RelativeToolTip": "AspDotNetCoreMVCApp\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:20:21.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

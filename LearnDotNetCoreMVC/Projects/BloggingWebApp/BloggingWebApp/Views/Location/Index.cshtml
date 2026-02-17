@@ -1,0 +1,103 @@
+﻿@model BloggingWebApp.Models.ViewModels.LocationVM
+
+
+
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+            <h1>Location Selector (Admin Only)</h1>
+            <a asp-controller="Home"
+               asp-action="Index"
+               class="btn btn-outline-primary">
+                Go Home
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container py-5 h-100">
+
+    <form asp-action="Index" method="post" class="row g-3">
+
+        <div class="col-12">
+            <div class="form-floating theme-select">
+                <select asp-for="CountryId" class="form-select border-0 bg-light" id="CountryId">
+                    <option value="" disabled selected>Select Country</option>
+                    @foreach (var c in Model.Countries)
+                    {
+                        <option value="@c.Id">@c.Name</option>
+                    }
+                </select>
+                <label for="CountryId" class="text-muted">Country</label>
+            </div>
+        </div>
+
+        <div class="col-12">
+            <div class="form-floating">
+                <select asp-for="StateId" class="form-select border-0 bg-light" id="StateId">
+                    <option value="" disabled selected>Select State</option>
+                </select>
+                <label for="StateId" class="text-muted">State</label>
+            </div>
+        </div>
+
+        <div class="col-12">
+            <div class="form-floating">
+                <select asp-for="CityId" class="form-select border-0 bg-light" id="CityId">
+                    <option value="" disabled selected>Select City</option>
+                </select>
+                <label for="CityId" class="text-muted">City</label>
+            </div>
+        </div>
+
+        <div class="col-12 mt-4">
+            <button type="submit" class="btn btn-dark py-2 rounded-pill fw-bold">
+                Save Information
+            </button>
+        </div>
+
+    </form>
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+                $(document).ready(function () {
+
+            $("#CountryId").on("change", function () {
+                var countryId = $(this).val();
+
+                $("#StateId").empty().append('<option value="" disabled selected>-- Select State --</option>');
+                $("#CityId").empty().append('<option value="" disabled selected>-- Select City --</option>');
+
+                if (!countryId) return;
+
+                $.get("/Location/GetStates", { countryId }, function (data) {
+                    $.each(data, function (i, item) {
+                        $("#StateId").append(`<option value="${item.id}">${item.name}</option>`);
+                    });
+                });
+            });
+
+            $("#StateId").on("change", function () {
+                var stateId = $(this).val();
+
+                $("#CityId").empty().append('<option value="" disabled selected>-- Select City --</option>');
+
+                if (!stateId) return;
+
+                $.get("/Location/GetCities", { stateId }, function (data) {
+                    $.each(data, function (i, item) {
+                        $("#CityId").append(`<option value="${item.id}">${item.name}</option>`);
+                    });
+                });
+            });
+
+        });
+
+    </script>
+
+}

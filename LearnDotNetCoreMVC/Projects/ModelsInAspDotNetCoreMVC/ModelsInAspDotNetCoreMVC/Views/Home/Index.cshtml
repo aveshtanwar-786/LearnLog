@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var STUDENTS = ViewData["Students"] as List<StudentModel >;
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+<table class="table table-bordered table-striped table-hover align-middle text-center">
+    <tr>
+        <th>
+            Roll No 
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Gender
+        </th>
+        <th>
+            Class
+        </th>
+    </tr>
+    @{
+        foreach (var std in STUDENTS)
+        {
+            <tr>
+            <td>@std.rollNo</td>
+            <td>@std.Name</td>
+                <td>@std.Gender</td>
+                <td>@std.Standard</td>
+            </tr>
+        }
+    }
+</table> 
+@* 
+<div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover align-middle text-center">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Roll No</th>
+                <th scope="col">Name</th>
+                <th scope="col">Gender</th>
+                <th scope="col">Class</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (STUDENTS != null && STUDENTS.Any())
+            {
+                foreach (var std in STUDENTS)
+                {
+                    <tr>
+                        <td>@std.rollNo</td>
+                        <td class="fw-semibold">@std.Name</td>
+                        <td>@std.Gender</td>
+                        <td>@std.Standard</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4" class="text-muted py-3">
+                        No student records found.
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div> *@

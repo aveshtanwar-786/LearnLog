@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    var mStudents = ViewBag.Students;
+    var mRelationDtls = ViewBag.RelationData;
+}
+
+<h1>Index Page</h1>
+<p>@ViewBag.data1</p>
+
+<table class="table table-bordered table-striped table-hover align-middle text-center">
+    <tr>
+        <th>Roll No</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Class</th>
+    </tr>
+    @{
+        foreach (var Stud in mStudents)
+        {
+            <tr>
+                <td>@Stud.RollNo</td>
+                <td>@Stud.Name</td>
+                <td>@Stud.Gender</td>
+                <td>@Stud.Standard</td>
+            </tr>
+        }
+    }
+
+</table><br/>
+<table class="table table-bordered table-striped table-hover align-middle text-center">
+    <tr>
+        <th>Relation Id</th>
+        <th>Name</th>
+        <th>Relation Desctiption</th>
+        <th>Age</th>
+    </tr>
+    @{
+        foreach (var Rel in mRelationDtls)
+        {
+            <tr>
+                <td>@Rel.Id</td>
+                <td>@Rel.Name</td>
+                <td>@Rel.RelationDescription</td>
+                <td>@Rel.Age</td>
+            </tr>
+        }
+    }
+
+</table>
+@*
+
+t Id { get; set; }
+        public string Name { get; set; }
+        public string RelationDescription { get; set; }
+        public int Age { get; set; }
+    <table class="table table-bordered table-striped table-hover align-middle text-center">     
+ *@

@@ -4796,11 +4796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\avesh\\CURD_Application\\AveshTanwarStudentPortal\\AveshTanwarStudentPortal.web\\AveshTanwarStudentPortal.web.csproj",
+      "projectUniqueName": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\CURD_Application\\AveshTanwarStudentPortal\\AveshTanwarStudentPortal.web\\AveshTanwarStudentPortal.web.csproj",
       "projectName": "AveshTanwarStudentPortal.web",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\avesh\\CURD_Application\\AveshTanwarStudentPortal\\AveshTanwarStudentPortal.web\\AveshTanwarStudentPortal.web.csproj",
+      "projectPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\CURD_Application\\AveshTanwarStudentPortal\\AveshTanwarStudentPortal.web\\AveshTanwarStudentPortal.web.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\avesh\\CURD_Application\\AveshTanwarStudentPortal\\AveshTanwarStudentPortal.web\\obj\\",
+      "outputPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\CURD_Application\\AveshTanwarStudentPortal\\AveshTanwarStudentPortal.web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4881,7 +4881,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

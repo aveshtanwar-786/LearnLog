@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\views\\home\\mtempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\views\\home\\mtempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\actionsandcontrollerproj\\actionsandcontrollerproj\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A5C4261-2D94-4288-B744-42C7AE70B1B8}|ActionsAndControllerProj\\ActionsAndControllerProj.csproj|solutionrelative:actionsandcontrollerproj\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ActionsAndControllerProj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T05:34:25.371Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mTempData.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Home\\mTempData.cshtml",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Views\\Home\\mTempData.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Home\\mTempData.cshtml",
+              "RelativeToolTip": "ActionsAndControllerProj\\Views\\Home\\mTempData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:00:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ActionsAndControllerProj\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T05:46:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ActionsAndControllerProj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwGsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T05:36:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ActionsAndControllerProj\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:33:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Program.cs",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Program.cs",
+              "RelativeToolTip": "ActionsAndControllerProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:30:31.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "ActionsAndControllerProj\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T06:14:13.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ActionsAndControllerProj\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ActionsAndControllerProj\\ActionsAndControllerProj\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ActionsAndControllerProj\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T05:54:06.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

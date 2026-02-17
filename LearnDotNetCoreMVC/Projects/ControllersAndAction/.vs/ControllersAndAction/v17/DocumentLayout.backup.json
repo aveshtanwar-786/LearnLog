@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\controllersandaction\\controllersandaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\controllersandaction\\controllersandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\controllersandaction\\controllersandaction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\controllersandaction\\controllersandaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\controllersandaction\\controllersandaction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\controllersandaction\\controllersandaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\controllersandaction\\controllersandaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1032F0B6-6B07-4853-92CF-635EB4A2B41F}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControllersAndAction\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:23:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:17:19.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ControllersAndAction\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T11:15:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Program.cs",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Program.cs",
+              "RelativeToolTip": "ControllersAndAction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:16:09.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\appsettings.json",
+              "RelativeDocumentMoniker": "ControllersAndAction\\appsettings.json",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\appsettings.json",
+              "RelativeToolTip": "ControllersAndAction\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T10:16:08.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ControllersAndAction\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T09:50:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ControllersAndAction\\ControllersAndAction\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllersAndAction\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:27:11.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\routingindotnetcoreproj\\routingindotnetcoreproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|solutionrelative:routingindotnetcoreproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\routingindotnetcoreproj\\routingindotnetcoreproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|solutionrelative:routingindotnetcoreproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\routingindotnetcoreproj\\routingindotnetcoreproj\\routingindotnetcoreproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|solutionrelative:routingindotnetcoreproj\\routingindotnetcoreproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\routingindotnetcoreproj\\routingindotnetcoreproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C35AC34-198C-49B6-A3BF-F7FB4B25C644}|RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj|solutionrelative:routingindotnetcoreproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoutingInDotNetCoreProj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RoutingInDotNetCoreProj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T13:08:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingInDotNetCoreProj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "RoutingInDotNetCoreProj\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:07:33.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoutingInDotNetCoreProj",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj",
+              "RelativeDocumentMoniker": "RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj",
+              "RelativeToolTip": "RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T13:06:12.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingInDotNetCoreProj\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\RoutingInDotNetCoreProj\\RoutingInDotNetCoreProj\\Program.cs",
+              "RelativeToolTip": "RoutingInDotNetCoreProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:02:23.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

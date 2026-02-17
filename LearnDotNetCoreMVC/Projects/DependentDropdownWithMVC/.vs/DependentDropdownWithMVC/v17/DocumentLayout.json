@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\models\\dependentdropdowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\models\\dependentdropdowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\controllers\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\controllers\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\views\\states\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\views\\states\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\views\\states\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\views\\states\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\views\\states\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\views\\states\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\views\\states\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\views\\states\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\views\\states\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\views\\states\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\dependentdropdownwithmvc\\dependentdropdownwithmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FFC5AA-7E25-4B96-B266-886BB67588FC}|DependentDropdownWithMVC\\DependentDropdownWithMVC.csproj|solutionrelative:dependentdropdownwithmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T06:21:33.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Views\\States\\Edit.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Edit.cshtml",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Views\\States\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T13:52:15.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Details.cshtml",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Views\\States\\Details.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Details.cshtml",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Views\\States\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T13:47:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Views\\States\\Delete.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Delete.cshtml",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Views\\States\\Delete.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T13:46:30.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Create.cshtml",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Views\\States\\Create.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Create.cshtml",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Views\\States\\Create.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAFcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T13:39:06.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Index.cshtml",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Views\\States\\Index.cshtml",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Views\\States\\Index.cshtml",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Views\\States\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T13:35:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatesController.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Controllers\\StatesController.cs",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Controllers\\StatesController.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Controllers\\StatesController.cs",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Controllers\\StatesController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:35:37.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependentDropdownContext.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Models\\DependentDropdownContext.cs",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Models\\DependentDropdownContext.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Models\\DependentDropdownContext.cs",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Models\\DependentDropdownContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:02:58.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\appsettings.json",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\appsettings.json",
+              "RelativeToolTip": "DependentDropdownWithMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T12:58:32.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DependentDropdownWithMVC\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\DependentDropdownWithMVC\\DependentDropdownWithMVC\\Program.cs",
+              "RelativeToolTip": "DependentDropdownWithMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:56:23.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

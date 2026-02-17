@@ -1,0 +1,18 @@
+﻿@model List<Student>
+@{
+    ViewData["Title"] = "Details";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="bg-light">Details Page</h1>
+
+
+
+@{
+    foreach (var Stud in Model)
+    {
+        <p>@Stud.Id</p>
+        <p>@Stud.Name</p>
+        <p>@Stud.Gender</p>
+    }
+}

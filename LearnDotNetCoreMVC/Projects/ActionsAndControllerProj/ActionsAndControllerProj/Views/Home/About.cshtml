@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About Pages</h1>
+<p>This is About Page.</p>
+@* <h1>@ViewBag.Data2 </h1>
+<h2>@ViewBag.Data1</h2> *@
+
+<h3>
+    Hey My name is @ViewBag.Data1 . <br /> My Age is @ViewBag.Data2 .<br /><br />I have Three Sister Names are as follows: <br /><t />
+    
+@{  
+        foreach (var item in @ViewBag.Data4)//Note required in ViewBag: (String[])
+        {
+            @item <br/>
+        }
+}
+
+</h3>
+
+<h2>My hobbies are as follows: <br/>
+    @{
+        foreach (var item1 in @ViewBag.Data5)//Note required in ViewBag: (List<string>)
+        {
+            @item1 <br/>
+        }
+    }
+</h2>
+<p>Taday Details are as mentioned @ViewBag.Data3</p>
+
+<br/> 
+<h1>Hey Again My name is @ViewData["Data1"]</h1>
+<h1>@TempData["Demo1"]</h1>
+
+

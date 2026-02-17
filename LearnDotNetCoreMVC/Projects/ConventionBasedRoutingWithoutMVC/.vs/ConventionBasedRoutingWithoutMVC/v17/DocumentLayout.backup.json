@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ConventionBasedRoutingWithoutMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827DF6C3-51D0-49EE-B46A-2BEFB92AE99F}|ConventionBasedRoutingWithoutMVC\\ConventionBasedRoutingWithoutMVC.csproj|c:\\learnlog\\learndotnetcoremvc\\projects\\conventionbasedroutingwithoutmvc\\conventionbasedroutingwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827DF6C3-51D0-49EE-B46A-2BEFB92AE99F}|ConventionBasedRoutingWithoutMVC\\ConventionBasedRoutingWithoutMVC.csproj|solutionrelative:conventionbasedroutingwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ConventionBasedRoutingWithoutMVC\\ConventionBasedRoutingWithoutMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ConventionBasedRoutingWithoutMVC\\Program.cs",
+              "ToolTip": "C:\\LearnLog\\LearnDotNetCoreMVC\\Projects\\ConventionBasedRoutingWithoutMVC\\ConventionBasedRoutingWithoutMVC\\Program.cs*",
+              "RelativeToolTip": "ConventionBasedRoutingWithoutMVC\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:21:47.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

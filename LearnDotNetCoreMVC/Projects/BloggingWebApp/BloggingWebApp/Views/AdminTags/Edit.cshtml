@@ -1,0 +1,50 @@
+﻿@model BloggingWebApp.Models.ViewModels.EditTagReq
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+            <h1>Edit Tag (Admin Only)</h1>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container py-5">
+    @if (Model != null)
+    {
+        <form method="post">
+            <div class="mb-3">
+                <label class="form-label" asp-for="Id">Identity</label>
+                <input type="text" id="id" class="form-control" readonly asp-for="Id" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="Name">Name</label>
+                <input type="text" id="Name" class="form-control" asp-for="Name" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="DispalyName">Display Name</label>
+                <input type="text" id="DisplayName" class="form-control" asp-for="DispalyName" />
+            </div>
+
+            <div class="mb-3">
+
+                <div class="d-flex">
+                    <button type="submit" class="btn btn-dark">Update</button>
+
+                    <button class="btn btn-danger ms-2" type="submit" asp-area="" asp-controller="AdminTags" asp-action="Delete">
+                        Delete
+                    </button>
+
+                    <a class="btn btn-info ms-2" asp-area="" asp-controller="AdminTags" asp-action="List">Go Back</a>
+                </div>
+
+            </div>
+        </form>
+
+    }
+    else
+    {
+        <p>No Tags Found!</p>
+    }
+</div>

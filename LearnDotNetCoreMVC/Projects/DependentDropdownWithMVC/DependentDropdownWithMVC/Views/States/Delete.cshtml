@@ -1,0 +1,76 @@
+﻿@model DependentDropdownWithMVC.Models.State
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+@* <h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>State</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StateCode)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StateCode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StateName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StateName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CreatedOn)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="StateId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-light">Back to List</a>
+    </form>
+</div> *@
+
+<div class="container pd-x-0 mg-t-50">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6 col-xl-5">
+            <div class="card card-body pd-40 text-center">
+                <div class="mx-auto bg-danger-light wd-80 ht-80 rounded-circle d-flex align-items-center justify-content-center mg-b-30">
+                    <i data-feather="alert-triangle" class="tx-danger wd-40 ht-40"></i>
+                </div>
+
+                <h3 class="mg-b-10">Confirm Deletion</h3>
+                <p class="tx-color-03 mg-b-30">Are you sure you want to delete this state permanently? This action cannot be undone.</p>
+                </ br>
+                <div class="bg-gray-50 pd-20 rounded text-left mg-b-30">
+                    <dl class="row mb-0">
+                        <dt class="col-sm-4 tx-12 tx-uppercase tx-medium tx-color-03">Code:</dt>
+                        <dd class="col-sm-8 tx-medium">@Html.DisplayFor(model => model.StateCode)</dd>
+
+                        <dt class="col-sm-4 tx-12 tx-uppercase tx-medium tx-color-03">Name:</dt>
+                        <dd class="col-sm-8 tx-medium">@Html.DisplayFor(model => model.StateName)</dd>
+                    </dl>
+                </div>
+
+                <form asp-action="Delete" class="d-flex justify-content-center">
+                    <input type="hidden" asp-for="StateId" />
+                    <a asp-action="Index" class="btn btn-white btn-uppercase mg-r-10">Cancel</a>
+                    <input type="submit" value="Delete Record" class="btn btn-danger btn-uppercase" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

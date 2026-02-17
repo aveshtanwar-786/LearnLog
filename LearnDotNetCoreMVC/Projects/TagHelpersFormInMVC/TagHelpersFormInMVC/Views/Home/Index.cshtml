@@ -1,0 +1,71 @@
+﻿@model TagHelpersFormInMVC.Models.Employee; //TagHelpersFormInMVC.Models.
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-action="Index" asp-controller="Home" method="post" class="d-grid">
+                <label asp-for="Name">Enter Name:</label>
+                <input asp-for="Name" placeholder="Enter Name" class="form-control"/>
+                <br/>
+                <label asp-for="Age">Enter Age:</label>
+                <input asp-for="Age" placeholder="Enter Age" class="form-control"/>
+                <br />
+                <label asp-for="Gender">What is Your Gender? </label>
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Genders>()">
+                    <option value="">
+                        Select Gender
+                    </option>
+                </select>
+                <br />
+                <label asp-for="Designation">Enter your Designation: </label>
+                <input asp-for="Designation" placeholder="Enter Designation" class="form-control"/>
+                <br/>
+                <label asp-for="Salary">Enter Your Salary: </label>
+                <input asp-for="Salary" placeholder="Enter Salary" class="form-control"/>
+                <br />
+                <label asp-for="Married">
+                    Are you Married ?
+                </label>
+                @* <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" type="Yes" value=true>//name="flexRadioDefault" id="flexRadioDefault1"
+                    <label class="form-check-label" for="flexRadioDefault1">
+                        Default radio
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" type="No" value=false>//name="flexRadioDefault" id="flexRadioDefault2" checked
+                    <label class="form-check-label" for="flexRadioDefault2">
+                        Default checked radio
+                    </label>
+                </div> *@
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="true"/>
+                    <label class="form-check-label" for="IsMarriedYes">
+                        Yes
+                    </label>
+                </div>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="false" />
+                    <label class="form-check-label" for="IsMarriedNo">
+                        No
+                    </label>
+                </div>
+                <br/>
+                <label asp-for="Description">Enter Description: </label>
+                <textarea asp-for="Description" class="form-control" placeholder="Enter Description..." rows="5"></textarea>
+                <br/>
+                <input type="submit" value="Submit" class="btn btn-outline-primary btn-block"/>
+            </form>
+        </div>
+    </div>
+
+</div>
